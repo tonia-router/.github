@@ -16,6 +16,7 @@ npm add @tonia-router/sdk
 | [tonia-api](https://github.com/tonia-router/Tonia-api) | OpenAPI 3.1 contract and API reference |
 | [python-sdk](https://github.com/tonia-router/python-sdk) | Python client — `tonia` on PyPI |
 | [typescript-sdk](https://github.com/tonia-router/typescript-sdk) | TypeScript client — `@tonia-router/sdk` on npm |
+| [rust-sdk](https://github.com/tonia-router/rust-sdk) | Rust client — `tonia-sdk` **0.4.0** (git/tag; not on crates.io yet) |
 | [sdk-examples](https://github.com/tonia-router/sdk-examples) | Cookbook examples |
 | [skills](https://github.com/tonia-router/skills) | `tonia-sdk` skill for Cursor, Claude Code, and Codex |
 
